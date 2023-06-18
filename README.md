@@ -25,9 +25,12 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+![Screenshot (29)](https://github.com/selvasachein/Ex03_Web-Design/assets/127816336/e5fc8b49-66bc-4abf-97d0-697b63401bbd)
+![Screenshot (30)](https://github.com/selvasachein/Ex03_Web-Design/assets/127816336/605be464-e7aa-42df-9768-bc17a082e5ab)
 
 
 ## OUTPUT
+![WhatsApp Image 2023-06-17 at 9 10 00 PM](https://github.com/selvasachein/Ex03_Web-Design/assets/127816336/12ed017f-a63d-4368-816f-a4ba19826cbf)
 
 
 ## RESULT
